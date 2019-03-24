@@ -10,6 +10,9 @@ readme = "README.md"
 keywords = ["pug", "jade", "template"]
 categories = ["command-line-utilities", "parsing", "web-programming"]
 
+[lib]
+name = "pug"
+
 [dependencies]
 pest = "2.1"
 pest_derive = "2.1"
