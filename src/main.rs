@@ -1,4 +1,4 @@
-use pug::parse;
+use pug_tmp_workaround::parse;
 use std::io::{self, Read};
 
 fn main() {

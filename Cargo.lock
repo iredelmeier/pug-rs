@@ -112,7 +112,7 @@ dependencies = [
 
 [[package]]
 name = "pug_tmp_workaround"
-version = "0.0.2"
+version = "0.0.3"
 dependencies = [
  "pest 2.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "pest_derive 2.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
